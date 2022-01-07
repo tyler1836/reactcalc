@@ -8,4 +8,5 @@
 - Style built with css `grid`
 - All the calculations are done inside the code without the help of an external library
 
-#### See it in action [here](./src/reactcalcdemo.gif)
+#### See it in action 
+![react demo](./src/reactcalcdemo.gif)
